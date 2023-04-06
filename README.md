@@ -32,7 +32,9 @@ In order to proceed with this demo, you should be relatively familiar with xsd s
 Firstly, lets have a look at the difference between mecha-metagenome-schema31.xsd and mecha-metagenome-schema31-cosmetic.xsd. In the image below, we see that the only difference is within the general-metamaterial-info element within the label field.
 
 ![a359241e182ca952400b877da5eaa9c9.png](:/fc4bd0052c294ced9e25d5857ee2dc31)
-![img1](https://github.com/jac-111/database_migration/tree/main/images/img1.png)
+![img1](https://github.com/jac-111/database_migration/blob/main/images/img1.png?raw=true)
+
+
 
 
 Now that we have an alternate version of the schema, we can create a new template version on portal.meta-genome. To do this, firstly go to the administration page. Then go to template list, under TEMPLATES, and find the version button associated with the schema to update (see below).
