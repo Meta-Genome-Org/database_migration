@@ -1,0 +1,283 @@
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <versioning>
+      <cc-license-agreement>Yes</cc-license-agreement>
+      <is-updating-version>No</is-updating-version>
+    </versioning>
+    <publication-info>
+      <id>https://doi.org/10.1016/j.mtcomm.2023.105616</id>
+      <publication-authors>
+        <author-initials>Sample</author-initials>
+        <author-surname>One</author-surname>
+      </publication-authors>
+      <publication-authors>
+        <author-initials>O</author-initials>
+        <author-surname>Duncan</author-surname>
+      </publication-authors>
+      <publication-authors>
+        <author-initials>M</author-initials>
+        <author-surname>Chester</author-surname>
+      </publication-authors>
+      <publication-authors>
+        <author-initials>W</author-initials>
+        <author-surname>Wang</author-surname>
+      </publication-authors>
+      <publication-authors>
+        <author-initials>A</author-initials>
+        <author-surname>Alderson</author-surname>
+      </publication-authors>
+      <publication-authors>
+        <author-initials>T</author-initials>
+        <author-surname>Allen</author-surname>
+      </publication-authors>
+      <publication-title>Effect of twist on indentation resistance</publication-title>
+      <publication-year>2023</publication-year>
+      <publication-journal>Materials Today Communications</publication-journal>
+      <publication-volume>35</publication-volume>
+      <publication-issue>1</publication-issue>
+      <publication-page>105616</publication-page>
+      <publication-url>https://www.sciencedirect.com/science/article/pii/S2352492823003069</publication-url>
+      <Publication-submitter>Oliver Duncan</Publication-submitter>
+      <Publication-submitter-email>o.duncan@mmu.ac.uk</Publication-submitter-email>
+    </publication-info>
+    <stress-strain-convention-info>
+      <strain-convention>Engineering Strain</strain-convention>
+      <stress-convention>Engineering Stress</stress-convention>
+    </stress-strain-convention-info>
+    <metamaterial-material-info>
+      <exp-or-sim>experimental</exp-or-sim>
+      <general-info>
+        <family>Idealised lattice</family>
+        <unusual_property>force/torque coupling</unusual_property>
+        <num_base_mats>1</num_base_mats>
+      </general-info>
+      <metamaterial-topol-unit-cell>
+        <fileExtension/>
+        <topology-url>https://portal.meta-genome.org/pid/rest/local/cdcs/NHQN0DQFQ7UARZ52</topology-url>
+        <base-material-info>
+          <base-material-class>Organic</base-material-class>
+          <new-base-class/>
+          <base-material-id>https://portal.meta-genome.org/pid/rest/local/cdcs/BXN3Y3GZJ6U6ICAV</base-material-id>
+        </base-material-info>
+      </metamaterial-topol-unit-cell>
+      <metamaterial-img>
+        <fileExtension>.png</fileExtension>
+        <image-url>https://portal.meta-genome.org/pid/rest/local/cdcs/Q0AXQ8MEF8T5B74Q</image-url>
+      </metamaterial-img>
+      <metamaterial-test-standard>ASTM D3574 – 11</metamaterial-test-standard>
+      <bulk-density>81.842</bulk-density>
+      <bulk-density-unit>kg/m³</bulk-density-unit>
+      <isotropic-choice>
+        <compressive-modulus-iso>
+          <compressive-modulus-iso-test-conditions>
+            <uniax-sample-details>
+              <test-cross-sec>rectangle</test-cross-sec>
+              <test-sample-width>71.4</test-sample-width>
+              <test-sample-width-units>mm</test-sample-width-units>
+              <test-sample-depth>71.4</test-sample-depth>
+              <test-sample-depth-units>mm</test-sample-depth-units>
+              <test-sample-gague-length>71.4</test-sample-gague-length>
+              <test-sample-gague-length-units>mm</test-sample-gague-length-units>
+            </uniax-sample-details>
+          </compressive-modulus-iso-test-conditions>
+          <compressive-modulus-val-iso>7.26</compressive-modulus-val-iso>
+          <compressive-modulus-units-iso>MPa</compressive-modulus-units-iso>
+          <compressive-modulus-conditions-iso>
+            <test-temperature>21</test-temperature>
+            <testing-temperature-units>˚C</testing-temperature-units>
+            <relative-humidity>35</relative-humidity>
+            <loading-rate>0.667</loading-rate>
+            <loading-rate-unit>%/s</loading-rate-unit>
+          </compressive-modulus-conditions-iso>
+        </compressive-modulus-iso>
+        <compressive-poissons-ratio-iso>
+          <compressive-poissons-iso-test-conditions>
+            <uniax-sample-details>
+              <test-cross-sec>rectangle</test-cross-sec>
+              <test-sample-width>71.4</test-sample-width>
+              <test-sample-width-units>mm</test-sample-width-units>
+              <test-sample-depth>71.4</test-sample-depth>
+              <test-sample-depth-units>mm</test-sample-depth-units>
+              <test-sample-gague-length>71.4</test-sample-gague-length>
+              <test-sample-gague-length-units>mm</test-sample-gague-length-units>
+            </uniax-sample-details>
+          </compressive-poissons-iso-test-conditions>
+          <compressive-poissons-ratio-val-iso>-0.02</compressive-poissons-ratio-val-iso>
+          <compressive-poissons-conditions-iso>
+            <test-temperature>21</test-temperature>
+            <testing-temperature-units>˚C</testing-temperature-units>
+            <relative-humidity>35</relative-humidity>
+            <loading-rate>0.667</loading-rate>
+            <loading-rate-unit>%/s</loading-rate-unit>
+          </compressive-poissons-conditions-iso>
+        </compressive-poissons-ratio-iso>
+        <couple-constant-iso>
+          <couple-constant-val-iso>0.5573</couple-constant-val-iso>
+          <couple-constant-conditions-iso>
+            <test-temperature>21</test-temperature>
+            <testing-temperature-units>˚C</testing-temperature-units>
+            <relative-humidity>35</relative-humidity>
+            <loading-rate>0.667</loading-rate>
+            <loading-rate-unit>%/s</loading-rate-unit>
+          </couple-constant-conditions-iso>
+        </couple-constant-iso>
+        <twist-iso>
+          <twist-iso-test-conditions>
+            <uniax-sample-details>
+              <test-cross-sec>rectangle</test-cross-sec>
+              <test-sample-width>71.4</test-sample-width>
+              <test-sample-width-units>mm</test-sample-width-units>
+              <test-sample-depth>71.4</test-sample-depth>
+              <test-sample-depth-units>mm</test-sample-depth-units>
+              <test-sample-gague-length>71.4</test-sample-gague-length>
+              <test-sample-gague-length-units>mm</test-sample-gague-length-units>
+            </uniax-sample-details>
+          </twist-iso-test-conditions>
+          <twist-val-iso>0.11</twist-val-iso>
+          <twist-len-conv-iso-data>
+            <twist-len-scale>9.3</twist-len-scale>
+            <twist-len-scale-units>mm</twist-len-scale-units>
+            <twist-convention>Micropolar</twist-convention>
+            <twist-conditions>
+              <test-temperature>21</test-temperature>
+              <testing-temperature-units>˚C</testing-temperature-units>
+              <relative-humidity>35</relative-humidity>
+              <loading-rate>0.667</loading-rate>
+              <loading-rate-unit>%/s</loading-rate-unit>
+            </twist-conditions>
+          </twist-len-conv-iso-data>
+        </twist-iso>
+        <base-stress-strain>
+          <stress-strain-topology-iso>
+            <fileExtension/>
+            <topology-url>https://portal.meta-genome.org/pid/rest/local/cdcs/SOZZUYBWOWEPT344</topology-url>
+            <base-material-info>
+              <base-material-class>Organic</base-material-class>
+              <new-base-class/>
+              <base-material-id>https://portal.meta-genome.org/pid/rest/local/cdcs/BXN3Y3GZJ6U6ICAV</base-material-id>
+            </base-material-info>
+          </stress-strain-topology-iso>
+          <stress-strain-unit-iso>MPa</stress-strain-unit-iso>
+          <stress-strain-xls-iso>
+            <fileExtension/>
+            <xls-upload-stress-strain-table>
+              <headers>
+                <column id="0"/>
+                <column id="1"/>
+              </headers>
+              <rows>
+                <row id="0">
+                  <column id="0">0.0</column>
+                  <column id="1">0.0</column>
+                </row>
+                <row id="100">
+                  <column id="0">-0.0018260812605042</column>
+                  <column id="1">-0.0135348256949839</column>
+                </row>
+              </rows>
+            </xls-upload-stress-strain-table>
+            <strain-confirm>
+              <selection>yes</selection>
+            </strain-confirm>
+            <stress-confirm>
+              <selection>yes</selection>
+            </stress-confirm>
+          </stress-strain-xls-iso>
+        </base-stress-strain>
+        <base-trans-axial-strain>
+          <trans-axial-strain-topology>
+            <fileExtension/>
+            <topology-url>https://portal.meta-genome.org/pid/rest/local/cdcs/ENFS5PCBCSAVV4SM</topology-url>
+            <base-material-info>
+              <base-material-class>Organic</base-material-class>
+              <new-base-class/>
+              <base-material-id>https://portal.meta-genome.org/pid/rest/local/cdcs/BXN3Y3GZJ6U6ICAV</base-material-id>
+            </base-material-info>
+          </trans-axial-strain-topology>
+          <trans-axial-strain-loading-ax>
+            <loading-ax>y</loading-ax>
+          </trans-axial-strain-loading-ax>
+          <trans-axial-strain-trans-ax>
+            <transverse-ax>x</transverse-ax>
+          </trans-axial-strain-trans-ax>
+          <trans-axial-strain-xls>
+            <fileExtension/>
+            <xls-upload-ax_strain-t_strain-table>
+              <headers>
+                <column id="0"/>
+                <column id="1"/>
+              </headers>
+              <rows>
+                <row id="0">
+                  <column id="0">0.0</column>
+                  <column id="1">0.0</column>
+                </row>
+                <row id="1">
+                  <column id="0">0.000466000000000077</column>
+                  <column id="1">0.0100965277777778</column>
+                </row>
+                <row id="295">
+                  <column id="0">-0.6794</column>
+                  <column id="1">0.117845833333333</column>
+                </row>
+              </rows>
+            </xls-upload-ax_strain-t_strain-table>
+            <ax-strain-confirm>
+              <selection>yes</selection>
+            </ax-strain-confirm>
+            <trans-strain-confirm>
+              <selection>yes</selection>
+            </trans-strain-confirm>
+          </trans-axial-strain-xls>
+        </base-trans-axial-strain>
+        <base-twist-axial-strain>
+          <twist-axial-strain-topology>
+            <fileExtension/>
+            <topology-url>https://portal.meta-genome.org/pid/rest/local/cdcs/17L54GMWPHQAI3DA</topology-url>
+            <base-material-info>
+              <base-material-class>Organic</base-material-class>
+              <new-base-class/>
+              <base-material-id>https://portal.meta-genome.org/pid/rest/local/cdcs/BXN3Y3GZJ6U6ICAV</base-material-id>
+            </base-material-info>
+          </twist-axial-strain-topology>
+          <twist-axial-strain-loading-ax>
+            <loading-ax>y</loading-ax>
+          </twist-axial-strain-loading-ax>
+          <twist-axial-strain-twist-ax>
+            <twist-ax>z</twist-ax>
+          </twist-axial-strain-twist-ax>
+          <twist-axial-strain-xls>
+            <fileExtension>https://portal.meta-genome.org/pid/rest/local/cdcs/BXN3Y3GZJ6U6ICAV</fileExtension>
+            <xls-upload-twist-ax_strain-table>
+              <headers>
+                <column id="0"/>
+                <column id="1"/>
+              </headers>
+              <rows>
+                <row id="0">
+                  <column id="0">0.0</column>
+                  <column id="1">0.0</column>
+                </row>
+                <row id="295">
+                  <column id="0">-0.6794</column>
+                  <column id="1">-0.0750643037085481</column>
+                </row>
+              </rows>
+            </xls-upload-twist-ax_strain-table>
+            <raw-twist-confirm>
+              <selection>yes</selection>
+            </raw-twist-confirm>
+            <ax-strain-confirm>
+              <selection>yes</selection>
+            </ax-strain-confirm>
+          </twist-axial-strain-xls>
+        </base-twist-axial-strain>
+      </isotropic-choice>
+    </metamaterial-material-info>
+    <developer-section>
+      <pid></pid>
+      <up-to-date-check>
+        <dev-most-recent-check>Yes</dev-most-recent-check>
+      </up-to-date-check>
+    </developer-section>
+  </map>
+  
